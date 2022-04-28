@@ -10708,6 +10708,7 @@ fieldset:disabled .btn {
   display: flex;
   max-height: 90vh;
   padding-bottom: 1rem;
+  justify-content: center;
 }
 
 .accordion-body__container .row .col-lg-12 .img-container img {
