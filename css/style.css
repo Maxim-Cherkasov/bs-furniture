@@ -10711,6 +10711,6 @@ fieldset:disabled .btn {
 }
 
 .accordion-body__container .row .col-lg-12 .img-container img {
-  object-fit: cover;
+  object-fit: contain;
 }
 /*# sourceMappingURL=style.css.map */
