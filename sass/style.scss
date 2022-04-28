@@ -61,3 +61,25 @@
       }
    }
 }
+
+   .accordion-body {
+
+		// .accordion-body__container
+
+		&__container {
+         .row {
+            .col-lg-12 {
+               max-width: 1320px;
+               .img-container {
+                  display: flex;
+                  max-height: 90vh;
+                  padding-bottom: 1rem;
+
+                  img {
+                     object-fit: cover;
+                  }
+               }
+            }
+         }
+		}
+}

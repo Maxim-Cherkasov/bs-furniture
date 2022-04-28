@@ -10699,4 +10699,18 @@ fieldset:disabled .btn {
     font-size: 2rem;
   }
 }
+
+.accordion-body__container .row .col-lg-12 {
+  max-width: 1320px;
+}
+
+.accordion-body__container .row .col-lg-12 .img-container {
+  display: flex;
+  max-height: 90vh;
+  padding-bottom: 1rem;
+}
+
+.accordion-body__container .row .col-lg-12 .img-container img {
+  object-fit: cover;
+}
 /*# sourceMappingURL=style.css.map */
