@@ -60,4 +60,35 @@
          font-size: 2rem;
       }
    }
+
+   .accordion {
+
+		// .accordion__body
+
+		&__body {
+		}
+
+		// .accordion__container
+
+		&__container {
+		}
+
+		// .accordion__row
+
+		&__row {
+		}
+
+		// .accordion__row-container
+
+		&__row-container {
+         display: flex;
+         max-height: 80vh;
+
+         .image-kitchen {
+            object-fit: cover;
+            border: 2px solid purple;
+         }
+		}
+}
+
 }

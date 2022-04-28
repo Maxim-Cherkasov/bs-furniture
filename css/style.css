@@ -10699,4 +10699,14 @@ fieldset:disabled .btn {
     font-size: 2rem;
   }
 }
+
+.main .accordion__row-container {
+  display: flex;
+  max-height: 80vh;
+}
+
+.main .accordion__row-container .image-kitchen {
+  object-fit: cover;
+  border: 2px solid purple;
+}
 /*# sourceMappingURL=style.css.map */
