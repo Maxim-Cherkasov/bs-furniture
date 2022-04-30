@@ -4820,6 +4820,7 @@ fieldset:disabled .btn {
   border-right: 0;
   border-left: 0;
   border-radius: 0;
+  border: none;
 }
 
 .accordion-flush .accordion-item:first-child {
