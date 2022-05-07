@@ -30,7 +30,6 @@
    // .main__description
 
    &__description {
-      
       text-align: center;
    }
    
@@ -53,11 +52,28 @@
       font-size: 2.5rem;
 
       @media (max-width: 640px) {
-         
          font-size: 2rem;
       }
    }
 }
+
+   .container h3 {
+      font-size: 2.8rem;
+      color: #ba0cf8;
+
+      @media (max-width: 640px) {
+         font-size: 2rem;
+      }
+   }
+
+   .container .h3-works {
+      font-size: 2.8rem;
+      color: #ba0cf8;
+
+      @media (max-width: 640px) {
+         font-size: 2rem;
+      }
+   }
 
    .accordion-body {
 
